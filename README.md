@@ -1,4 +1,12 @@
 # Temperaturmessstation
+
+Hier ist der Link zu den Platinen:
+https://www.pcbway.com/project/shareproject/DMX_LED_Bar_1_abcb6a3c.html
+
+Und hier könnt ihr selber Platinen bestellen: https://www.pcbway.com/
+![PCBWay-logo](https://github.com/Linu-Tec/Temperaturmessstation/assets/70856050/d12e67c0-d204-4659-b56b-77cca95ddc45)
+
+
 Temperaturmessstation mit LCD, DHT11 &amp; 22, DS18B20, LM35, TMP36
 
 Arduino Temp Sensor
