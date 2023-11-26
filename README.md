@@ -1,7 +1,7 @@
 # Temperaturmessstation
 
 Hier ist der Link zu den Platinen:
-https://www.pcbway.com/project/shareproject/DMX_LED_Bar_1_abcb6a3c.html
+https://www.pcbway.com/project/shareproject/Temperaturmessstation_34478d1d.html
 
 Und hier könnt ihr selber Platinen bestellen: https://www.pcbway.com/
 ![PCBWay-logo](https://github.com/Linu-Tec/Temperaturmessstation/assets/70856050/d12e67c0-d204-4659-b56b-77cca95ddc45)
@@ -30,6 +30,12 @@ Benötigte Bauteile:
 ![image](https://github.com/18-Sunil-18/Temperaturmessstation/assets/70856050/8d4179bb-146a-45c1-97af-b873db9cb2a7)
 
 INPUT: 6V-20V
+
+Video:
+https://youtu.be/W1A4v23uYNI
+
+![IMG_20231125_1604581](https://github.com/Linu-Tec/Temperaturmessstation/assets/70856050/49d235d8-c477-4b20-8fdf-028c2c843108)
+
 
 ![Arduino Temp Sensor PCB OBEN](https://github.com/18-Sunil-18/Temperaturmessstation/assets/70856050/fdc6e3f3-e07e-4392-8543-84f62b7d7a83)
 ![Arduino Temp Sensor PCB UNTEN](https://github.com/18-Sunil-18/Temperaturmessstation/assets/70856050/86ebf3c2-5151-45ad-838a-6f54864f883c)
