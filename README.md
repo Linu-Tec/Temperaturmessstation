@@ -36,6 +36,14 @@ https://youtu.be/W1A4v23uYNI
 
 ![IMG_20231125_1604581](https://github.com/Linu-Tec/Temperaturmessstation/assets/70856050/49d235d8-c477-4b20-8fdf-028c2c843108)
 
+![DS18B20, DHT, LM35, TMP36](https://github.com/Linu-Tec/Temperaturmessstation/assets/70856050/fe7639dc-cd60-4d7a-b2fb-a2f9d8cdbfcf)
+![dht11](https://github.com/Linu-Tec/Temperaturmessstation/assets/70856050/5bbb8029-0b49-4ec5-a860-8467b2c1313f)
+![dht22](https://github.com/Linu-Tec/Temperaturmessstation/assets/70856050/108fa481-6787-4206-b724-365d7401ae00)
+![tmp36](https://github.com/Linu-Tec/Temperaturmessstation/assets/70856050/79f79050-cc05-42db-9597-b1489ae5db27)
+![tmp36 lm35](https://github.com/Linu-Tec/Temperaturmessstation/assets/70856050/08a16746-45ab-4e20-b74d-5b69c992188f)
+
+
+
 
 ![Arduino Temp Sensor PCB OBEN](https://github.com/18-Sunil-18/Temperaturmessstation/assets/70856050/fdc6e3f3-e07e-4392-8543-84f62b7d7a83)
 ![Arduino Temp Sensor PCB UNTEN](https://github.com/18-Sunil-18/Temperaturmessstation/assets/70856050/86ebf3c2-5151-45ad-838a-6f54864f883c)
