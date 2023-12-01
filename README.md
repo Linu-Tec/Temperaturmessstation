@@ -31,6 +31,8 @@ Benötigte Bauteile:
 
 INPUT: 6V-20V
 
+Case: https://www.printables.com/de/model/666132-temperaturmessstation-mit-lcd-dht11-22-ds18b20-lm3
+
 Video:
 https://youtu.be/W1A4v23uYNI
 
