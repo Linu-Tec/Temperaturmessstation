@@ -25,6 +25,7 @@ Benötigte Bauteile:
 - 1x Schalter     (https://www.ebay.de/itm/284137195744)
 - LCD Modul    (https://funduinoshop.com/elektronische-module/displays/lcd/16x02-i2c-lcd-modul-mit-hd44780)
 - 2x Buchsenleiste, gerade, 15pol, 2,54mm    (https://funduinoshop.com/bauelemente/steckverbinder/stift-und-buchsenleisten/buchsenleiste-1-x-15p-2.54mm-rastermass-11mm-pinlaenge)
+- 4x Buchsenleiste, gerade, 8pol, 2,54mm (ein Pin entfernen)    (https://funduinoshop.com/bauelemente/steckverbinder/stift-und-buchsenleisten/buchsenleiste/header-pin-female-1-x-8p-2.54mm-1cm-pinlaenge)
 - 1x Stiftleiste, (https://funduinoshop.com/bauelemente/steckverbinder/stift-und-buchsenleisten/40-pin-pinleiste-schwarz/2.54mm-raster-standard-im-bereich-arduino)
 - 1x 9V Batterieclip (https://funduinoshop.com/diy-werkstatt/stromversorgung/batteriefaecher-und-klemmen/9v-batterieklemme-mit-dc-stecker-t-form-15cm-kabellaenge)
 
