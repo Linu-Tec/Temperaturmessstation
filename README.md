@@ -28,7 +28,7 @@ Benötigte Bauteile:
 - 1x Stiftleiste, (https://funduinoshop.com/bauelemente/steckverbinder/stift-und-buchsenleisten/40-pin-pinleiste-schwarz/2.54mm-raster-standard-im-bereich-arduino)
 - 1x 9V Batterieclip (https://funduinoshop.com/diy-werkstatt/stromversorgung/batteriefaecher-und-klemmen/9v-batterieklemme-mit-dc-stecker-t-form-15cm-kabellaenge)
 
-https://funduinoshop.com/ & https://www.conrad.de/ & https://www.reichelt.com/de/
+https://funduinoshop.com/ & https://www.reichelt.com/de/ & https://www.conrad.de/ & https://www.voelkner.de/
 
 ![image](https://github.com/18-Sunil-18/Temperaturmessstation/assets/70856050/8d4179bb-146a-45c1-97af-b873db9cb2a7)
 
