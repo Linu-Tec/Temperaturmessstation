@@ -13,19 +13,20 @@ Arduino Temp Sensor
 
 Benötigte Bauteile:
 - 4x Taster 6x6mm    (https://funduinoshop.com/bauelemente/taster-und-schalter/taster/taster-sortiment-10x20-stueck-6mm-basis)
-- 4x Widerstände 1kOhm    ()
+- 4x Widerstände 1kOhm
 - 1x Arduino Nano    (https://funduinoshop.com/elektronische-module/sonstige/mikrocontroller/funduino-nano-r3-ch340-chip-ungeloetet)
-- 1x Widerstand 5,6k-10kOhm    ()
-- 1x Widerstand 4,7kOhm    ()
+- 1x Widerstand 5,6k-10kOhm    (https://www.ebay.de/itm/302928155473)
+- 1x Widerstand 4,7kOhm
 - 1x DHT11    (https://funduinoshop.com/elektronische-module/sensoren/temperatur/dht11-temperatursensor-luftfeuchtigkeitssensor-ohne-breakoutboard)
 - 1x DHT22    (https://funduinoshop.com/elektronische-module/sensoren/druck-gewicht/dht22-temperatur-und-feuchtigkeitssensor-ohne-breakoutboard)
 - 2x DS18B20  (https://funduinoshop.com/elektronische-module/sensoren/temperatur/dallas-ds18b20-temperatursensor-bedrahtet, https://funduinoshop.com/elektronische-module/sensoren/temperatur/temperatursensor-ds18b20-inkl.-anschlussterminal)
 - 1x LM35    (https://funduinoshop.com/elektronische-module/sensoren/temperatur/temperatursensor-lm35-wasserdicht)
 - 1x TMP36    (https://funduinoshop.com/elektronische-module/sensoren/temperatur/temperatursensor-tmp36gt9z)
-- 1x Schalter     ()
+- 1x Schalter     (https://www.ebay.de/itm/284137195744)
 - LCD Modul    (https://funduinoshop.com/elektronische-module/displays/lcd/16x02-i2c-lcd-modul-mit-hd44780)
 - 2x Buchsenleiste, gerade, 15pol, 2,54mm    (https://funduinoshop.com/bauelemente/steckverbinder/stift-und-buchsenleisten/buchsenleiste-1-x-15p-2.54mm-rastermass-11mm-pinlaenge)
 - 1x Stiftleiste, (https://funduinoshop.com/bauelemente/steckverbinder/stift-und-buchsenleisten/40-pin-pinleiste-schwarz/2.54mm-raster-standard-im-bereich-arduino)
+- 1x 9V Batterieclip (https://funduinoshop.com/diy-werkstatt/stromversorgung/batteriefaecher-und-klemmen/9v-batterieklemme-mit-dc-stecker-t-form-15cm-kabellaenge)
 
 ![image](https://github.com/18-Sunil-18/Temperaturmessstation/assets/70856050/8d4179bb-146a-45c1-97af-b873db9cb2a7)
 
