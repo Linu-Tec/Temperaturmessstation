@@ -12,24 +12,24 @@ Temperaturmessstation mit LCD, DHT11 &amp; 22, DS18B20, LM35, TMP36
 Arduino Temp Sensor
 
 Benötigte Bauteile:
-- 4x Taster 6x6mm    (https://funduinoshop.com/bauelemente/taster-und-schalter/taster/taster-sortiment-10x20-stueck-6mm-basis)
+- 4x [Taster 6x6mm](https://funduinoshop.com/bauelemente/taster-und-schalter/taster/taster-sortiment-10x20-stueck-6mm-basis)
 - 4x Widerstände 1kOhm
-- 1x Arduino Nano    (https://funduinoshop.com/elektronische-module/sonstige/mikrocontroller/funduino-nano-r3-ch340-chip-ungeloetet)
-- 1x Widerstand 5,6k-10kOhm    (https://www.ebay.de/itm/302928155473)
+- 1x [Arduino Nano](https://funduinoshop.com/elektronische-module/sonstige/mikrocontroller/funduino-nano-r3-ch340-chip-ungeloetet)
+- 1x [Widerstand 5,6k-10kOhm](https://www.ebay.de/itm/302928155473)
 - 1x Widerstand 4,7kOhm
-- 1x DHT11    (https://funduinoshop.com/elektronische-module/sensoren/temperatur/dht11-temperatursensor-luftfeuchtigkeitssensor-ohne-breakoutboard)
-- 1x DHT22    (https://funduinoshop.com/elektronische-module/sensoren/druck-gewicht/dht22-temperatur-und-feuchtigkeitssensor-ohne-breakoutboard)
-- 2x DS18B20  (https://funduinoshop.com/elektronische-module/sensoren/temperatur/dallas-ds18b20-temperatursensor-bedrahtet, https://funduinoshop.com/elektronische-module/sensoren/temperatur/temperatursensor-ds18b20-inkl.-anschlussterminal)
-- 1x LM35    (https://funduinoshop.com/elektronische-module/sensoren/temperatur/temperatursensor-lm35-wasserdicht)
-- 1x TMP36    (https://funduinoshop.com/elektronische-module/sensoren/temperatur/temperatursensor-tmp36gt9z)
-- 1x Schalter     (https://www.ebay.de/itm/284137195744)
-- LCD Modul    (https://funduinoshop.com/elektronische-module/displays/lcd/16x02-i2c-lcd-modul-mit-hd44780)
-- 2x Buchsenleiste, gerade, 15pol, 2,54mm    (https://funduinoshop.com/bauelemente/steckverbinder/stift-und-buchsenleisten/buchsenleiste-1-x-15p-2.54mm-rastermass-11mm-pinlaenge)
-- 4x Buchsenleiste, gerade, 8pol, 2,54mm (ein Pin entfernen)    (https://funduinoshop.com/bauelemente/steckverbinder/stift-und-buchsenleisten/buchsenleiste/header-pin-female-1-x-8p-2.54mm-1cm-pinlaenge)
-- 1x Stiftleiste, (https://funduinoshop.com/bauelemente/steckverbinder/stift-und-buchsenleisten/40-pin-pinleiste-schwarz/2.54mm-raster-standard-im-bereich-arduino)
-- 1x 9V Batterieclip (https://funduinoshop.com/diy-werkstatt/stromversorgung/batteriefaecher-und-klemmen/9v-batterieklemme-mit-dc-stecker-t-form-15cm-kabellaenge)
+- 1x [DHT11](https://funduinoshop.com/elektronische-module/sensoren/temperatur/dht11-temperatursensor-luftfeuchtigkeitssensor-ohne-breakoutboard)
+- 1x [DHT22](https://funduinoshop.com/elektronische-module/sensoren/druck-gewicht/dht22-temperatur-und-feuchtigkeitssensor-ohne-breakoutboard)
+- 2x [DS18B20](https://funduinoshop.com/elektronische-module/sensoren/temperatur/dallas-ds18b20-temperatursensor-bedrahtet, https://funduinoshop.com/elektronische-module/sensoren/temperatur/temperatursensor-ds18b20-inkl.-anschlussterminal)
+- 1x [LM35](https://funduinoshop.com/elektronische-module/sensoren/temperatur/temperatursensor-lm35-wasserdicht)
+- 1x [TMP36](https://funduinoshop.com/elektronische-module/sensoren/temperatur/temperatursensor-tmp36gt9z)
+- 1x [Schalter](https://www.ebay.de/itm/284137195744)
+- 1x [LCD Modul](https://funduinoshop.com/elektronische-module/displays/lcd/16x02-i2c-lcd-modul-mit-hd44780)
+- 2x [Buchsenleiste, gerade, 15pol, 2,54mm](https://funduinoshop.com/bauelemente/steckverbinder/stift-und-buchsenleisten/buchsenleiste-1-x-15p-2.54mm-rastermass-11mm-pinlaenge)
+- 4x [Buchsenleiste, gerade, 8pol, 2,54mm (ein Pin entfernen)](https://funduinoshop.com/bauelemente/steckverbinder/stift-und-buchsenleisten/buchsenleiste/header-pin-female-1-x-8p-2.54mm-1cm-pinlaenge)
+- 1x [Stiftleiste](https://funduinoshop.com/bauelemente/steckverbinder/stift-und-buchsenleisten/40-pin-pinleiste-schwarz/2.54mm-raster-standard-im-bereich-arduino)
+- 1x [9V Batterieclip](https://funduinoshop.com/diy-werkstatt/stromversorgung/batteriefaecher-und-klemmen/9v-batterieklemme-mit-dc-stecker-t-form-15cm-kabellaenge)
 
-https://funduinoshop.com/ & https://www.reichelt.com/de/ & https://www.conrad.de/ & https://www.voelkner.de/
+[Funduinoshop](https://funduinoshop.com/) & [Reichelt](https://www.reichelt.com/de/) & [Conrad](https://www.conrad.de/) & [Voelkner](https://www.voelkner.de/)
 
 ![image](https://github.com/18-Sunil-18/Temperaturmessstation/assets/70856050/8d4179bb-146a-45c1-97af-b873db9cb2a7)
 
@@ -37,8 +37,7 @@ INPUT: 6V-20V
 
 Case: https://www.printables.com/de/model/666132-temperaturmessstation-mit-lcd-dht11-22-ds18b20-lm3
 
-Video:
-https://youtu.be/W1A4v23uYNI
+[Video](https://youtu.be/W1A4v23uYNI)
 
 ![IMG_20231125_1604581](https://github.com/Linu-Tec/Temperaturmessstation/assets/70856050/49d235d8-c477-4b20-8fdf-028c2c843108)
 
